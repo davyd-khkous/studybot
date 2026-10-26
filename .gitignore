@@ -1,0 +1,12 @@
+.env
+*.db
+*.db-journal
+*.restore
+data/*
+!data/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
